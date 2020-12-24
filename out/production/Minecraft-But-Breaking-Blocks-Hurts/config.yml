@@ -1,0 +1,5 @@
+#Ant's BreakingBlockHurts Plugin.
+#AntTheAntster 2020. All Rights Reserved.
+#
+#How much health to be taken from the player. Value of 1 = half a heart, Value of 2 = 1 heart, Value of 3 = 1.5 hearts and so on
+Player Damage: 1

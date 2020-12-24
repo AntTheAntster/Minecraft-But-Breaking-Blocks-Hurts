@@ -1,2 +1,6 @@
 # Minecraft But Breaking Blocks Hurts
- Plugin i made for one of my "Minecraft But..." videos
+ Plugin I made for one of my "Minecraft But..." videos
+ 
+ Channel: https://www.youtube.com/c/AntTheAntster
+ 
+ VIDEO NOT YET RELEASED

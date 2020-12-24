@@ -1,0 +1,6 @@
+name: AntsBlockBreakingHurts
+main: com.anttheantster.breakingblockshurts.Main
+version: 1.0
+commands:
+  heal:
+    description: Heal the player.
