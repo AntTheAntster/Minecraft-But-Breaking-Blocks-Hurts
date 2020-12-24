@@ -6,6 +6,7 @@
 
 # idea folder
 *.xml
+*.iml
 
 # BlueJ files
 *.ctxt
